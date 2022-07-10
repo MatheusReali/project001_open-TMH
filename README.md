@@ -19,7 +19,7 @@
 - random.
 
 ## How to use
-You will see two files, the game (project001_open-TMH.ipynb) and the "x" (project001-TMH-Test.ipynb).
+You will see two files, the game (project001_open-TMH.ipynb) and the "tester" (project001-TMH-Test.ipynb).
 
 ### The game is really simple and has seven steps:
 
